@@ -3,6 +3,6 @@ import react from "@vitejs/plugin-react";
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: "hpps//elto82.github.io/",
+  base: "https://elto82.github.io/",
   plugins: [react()],
 });
